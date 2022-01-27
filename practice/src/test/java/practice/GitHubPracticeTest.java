@@ -1,6 +1,6 @@
 package practice;
 
-public class GitHubPractice {
+public class GitHubPracticeTest {
 
 	public static void main (String[] args)
 	{
